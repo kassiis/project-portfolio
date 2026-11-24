@@ -1,7 +1,8 @@
 # PassGuard
 
-**GitHub Repository:** `kassiis/passguard`  
+**GitHub Repository:** `kassiis/passguard` 
 **Source code:** Private repository  
+**public code:** 'https://github.com/kassiis/passguard-service'
 **Project Category:** Cybersecurity & Security Microservices  
 **Development Status:** Active / Feature-Complete Prototype  
 
